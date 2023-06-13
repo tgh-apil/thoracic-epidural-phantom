@@ -107,7 +107,7 @@ In general, we use the following settings for all parts of this phantom:
 #### Opaque Layer
 If an opaque phantom is desired for use in ultrasound-guided epidural training, follow the steps below. If however the learning objective is to insert an epidural without the use of ultrasound, skip to the gel body section and use only clear gel.
 
-1. Melt 95 g 20% gel, 95 g Humimic #5 gel, and 10 g of d in crockpot @ 105C - 115C (approx. 225F - 240F). This is **200 g** of gel total, i.e. **5% dye** by weight, however the percentage of dye can be adjusted to achieve a desired opacity.
+1. Melt 97.5 g 20% gel, 97.5 g Humimic #5 gel, and 5 g of gel dye in crockpot @ 105C - 115C (approx. 225F - 240F). This is **200 g** of gel total, i.e. **2.5% dye** by weight, however the percentage of dye can be adjusted to achieve a desired opacity.
 2. Pour into mold, then tilt the mold in a circular motion, ensuring the dyed gel coats the entirety of the bottom of the mold. Once the gel begins to cool and is moving very slowly, set aside and allow to cool completely.
 
 #### Gel Body
