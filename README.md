@@ -2,7 +2,9 @@
 
 ![thoracic spine epidural phantom](https://github.com/tgh-apil/thoracic-epidural-phantom/assets/84343976/28f1e0e3-7c0a-469f-a6b7-1dc5fc3b269d)
 
-3D Printed thoracic epidural spine based on CT data. Our epidural spine phantom is encased in an synthetic, shelf-stable gel which has a realistic tactile feel to human muscle and is echogenic. We can augment the echogenic properties to be transparent (clear gel) or to mimic that of biological tissue (opaque) based on the learning objective. Additionally, the Thoracic Spine Epidural Phantom contains an echogenic faux-thecal sac to replicate loss-of resistance on puncture. The faux-thecal sac can be inflated with water to simulate spinal fluid.
+https://github.com/tgh-apil/thoracic-epidural-phantom/assets/84343976/2604490d-a012-4d1f-9888-fdd0e5aba910
+
+3D Printed thoracic (T6 to T12) epidural spine based on CT data. The spine has been curved to allow for improved and more realistic access to the thecal sac, as demonstrated in the video above. Our epidural spine phantom is encased in an echogenic and shelf-stable synthetic gel which has a realistic tactile feel similar to human muscle. We can augment the echogenic properties to be transparent (clear gel) or to mimic that of biological tissue (opaque) based on the learning objective. Additionally, the Thoracic Spine Epidural Phantom contains an echogenic faux-thecal sac to replicate loss-of resistance on puncture. The faux-thecal sac can be inflated with water to simulate spinal fluid.
 
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network.
 
