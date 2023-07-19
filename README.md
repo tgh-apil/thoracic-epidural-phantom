@@ -1,6 +1,6 @@
 # APIL Normal Thoracic Spine Epidural Phantom
 
-![thoracic spine epidural phantom](https://github.com/tgh-apil/thoracic-epidural-phantom/assets/84343976/28f1e0e3-7c0a-469f-a6b7-1dc5fc3b269d)
+![thoracic spine both small](https://github.com/tgh-apil/thoracic-epidural-phantom/assets/84343976/a92f0a4c-6b14-4c1e-9048-16f5008703c1)
 
 https://github.com/tgh-apil/thoracic-epidural-phantom/assets/84343976/2604490d-a012-4d1f-9888-fdd0e5aba910
 
